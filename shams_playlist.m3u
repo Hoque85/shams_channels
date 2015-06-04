@@ -1,7 +1,7 @@
 #EXTM3U
 
+#EXTINF: -1, Iqra Bangla
+http://cdn01.iqbroadcast.tv:8081/1qr188/1b1ngl1/playlist.m3u8
+
 #EXTINF: -1, Islam Channel
 http://tx.sharp-stream.com/vidiphone.php?c=islamtv/islamtv.stream/playlist.m3u8
-
-#EXTINF: -1, Iqra
-http://cdn01.iqbroadcast.tv:8081/1qr188/1b1ngl1/playlist.m3u8
