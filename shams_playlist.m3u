@@ -8,3 +8,9 @@ http://tx.sharp-stream.com/vidiphone.php?c=islamtv/islamtv.stream/playlist.m3u8
 
 #EXTINF: -1, Ramadan Tv
 http://ios.streamserver01.com:8080/RamadanTV/mystream.m3u8
+
+#EXTINF: -1, Channel S
+rtsp://mobs.jagobd.com:1935/c2VydmVyX3RpbWU9Mi8xNy8yMDE0GIDU6RMzQ6NTAgUEoaGFzbF92YWxIZTO0U0pzN1IzMytvcGVMZFJCTEFWeVN3PT0mdmFsaWRtaW51dGVzPTI/channesuk0000223534455668877.stream?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDE1IDEwOjEwOjUwIFBNJmhhc2hfdmFsdWU9MmYxRUtJaDkwalRBaTJhMndLWVZTdz09JnZhbGlkbWludXRlcz0yMDA=
+
+#EXTINF: -1, Channel S 2
+http://mobs.jagobd.com:1935/c2VydmVyX3RpbWU9Mi8xNy8yMDE0GIDU6RMzQ6NTAgUEoaGFzbF92YWxIZTO0U0pzN1IzMytvcGVMZFJCTEFWeVN3PT0mdmFsaWRtaW51dGVzPTI/channesuk0000223534455668877.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDE1IDEwOjE0OjUyIFBNJmhhc2hfdmFsdWU9ZkhMWDFEaFlWRExMWGtCTGdmQkVoUT09JnZhbGlkbWludXRlcz0yMDA=
